@@ -6,7 +6,7 @@ The case study i chose to work on will be Case Study 2: How Can a Wellness Techn
 
 I chose to use RStudio to clean, process and do visualisation for this project because there are some datasets with >1,048,576 rows, which exceed the maximum number of rows excel can load and RStudio is a strong visualisation tool with easy to use syntax. 
 
-Please click [here](https://htmlpreview.github.io/?https://github.com/hkh117/Google-DA-case-study/blob/master/case-study-bellabeats.html) to view the full report on the case study.
+Please click [here](https://htmlpreview.github.io/?https://github.com/ShayneHang/Google-DA-case-study/blob/master/case-study-bellabeats.html) to view the full report on the case study.
 
 The dataset used can be found [here](https://www.kaggle.com/datasets/arashnic/fitbit)
 
